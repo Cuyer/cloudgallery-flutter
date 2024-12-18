@@ -11,7 +11,7 @@ import 'package:flutter/foundation.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   const firebaseConfig = FirebaseOptions (
-      apiKey: "AIzaSyDAokAJKQ25_qD7hWKZeyYYkIm0FlZQ4lk",
+      apiKey: "",
       authDomain: "cloudgallery-de527.firebaseapp.com",
       projectId: "cloudgallery-de527",
       storageBucket: "cloudgallery-de527.firebasestorage.app",
